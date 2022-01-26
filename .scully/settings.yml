@@ -1,0 +1,11 @@
+identifier: k1y0v5a706f1d8l3
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: my-blog
+homeFolder: D:\Bossy\Angular\Mark_Thompson\my-blog
+distFolder: dist/my-blog
+outDir: D:\Bossy\Angular\Mark_Thompson\my-blog\dist\static
+handle404: ''
+allowErrorCollect: true
